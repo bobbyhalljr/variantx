@@ -1,7 +1,7 @@
 {
   "name": "variantx",
   "author": "Bobby Hall Jr",
-  "version": "1.0.0",
+  "version": "0.4.20",
   "description": "A utility for generating Tailwind CSS class names and a hook for applying styles in React components.",
   "main": "index.ts",
   "types": "index.d.ts",
